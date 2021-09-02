@@ -2948,6 +2948,18 @@ p {
     margin-right: 0;
     /*padding-right: 40%;*/
 }
+
+.backShadeblue1 {
+    background-color: skyblue; 
+    border-radius: 25px; 
+    text-align: center;
+}  
+.backShadeblue1 h1{
+    color: #fff;
+    text-align: center;
+    padding: 1%;
+    font-size: 30px;
+}  
 backShadegreen1 h1{
     color: white;
     text-align: center;
