@@ -395,6 +395,9 @@ table{
     position: relative;
     margin: auto;
 }
+	
+.slideshow-container img {
+  max-width: 100%;}
     
 /*    Producton gallery*/
 * {box-sizing: border-box;}
