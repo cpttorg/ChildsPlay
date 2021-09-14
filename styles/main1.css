@@ -2955,12 +2955,17 @@ p {
     border-radius: 25px; 
     
 }  
+	
 .backShadeblue1 h1{
     color: #fff;
     text-align: center;
     padding: 1%;
     font-size: 30px;
 }  
+.backShadeRed2 {
+    background-color: #bb0a1e;
+    border-radius: 25px;   
+} 
 backShadegreen1 h1{
     color: white;
     text-align: center;
