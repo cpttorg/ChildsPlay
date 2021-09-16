@@ -2099,9 +2099,7 @@ backShadegreen1 h1{
 backShadegreen2{
   background-color: yellowgreen; 
     border-radius: 25px; 
-    color: gray;
-    text-align: center;
-}  
+   }  
 
 .backShadegreen2 h1{
     color: #fff;
