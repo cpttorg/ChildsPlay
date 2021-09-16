@@ -1215,17 +1215,7 @@ video{
     font-size:30px;
     border: 10px solid lightcoral;
 } 
-.backShadePurple1{
-    background-color: lavender; 
-    border-radius: 25px; 
-    font-size: 20px;
-}
 
-.backShadePurple2{
-    background-color: lavender; 
-    border-radius: 25px; 
-    font-size: 20px;
-}
 /*Used on home page & about us*/
 .backShadeblue1 {
     background-color: skyblue; 
