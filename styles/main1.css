@@ -2131,6 +2131,28 @@ backShadegreen2{
     text-align: center;
     font-size: 40px;
 }  
+	
+.backShadepurple1{
+    background-color: rebeccapurple; 
+    border-radius: 25px; 
+}
+.backShadepurple1 h1{
+    color: #fff;
+    text-align: center;
+    padding: 1%;
+    font-size: 30px;
+}  
+.backShadepurple2{
+    background-color: rebeccapurple; 
+    border-radius: 25px; 
+}
+.backShadepurple3{
+    border-radius: 25px; 
+    color: black;
+    text-align: center;
+    font-size:30px;
+    border: 10px solid mediumpurple;
+}  
 #founderssec2 a{
     color: darkseagreen;    
 }
@@ -2536,6 +2558,27 @@ video{
     text-align: center;
     padding: 1%;
     font-size: 30px;
+}  
+.backShadepurple1{
+    background-color: rebeccapurple; 
+    border-radius: 25px; 
+}
+.backShadepurple1 h1{
+    color: #fff;
+    text-align: center;
+    padding: 1%;
+    font-size: 30px;
+}  
+.backShadepurple2{
+    background-color: rebeccapurple; 
+    border-radius: 25px; 
+}
+.backShadepurple3{
+    border-radius: 25px; 
+    color: black;
+    text-align: center;
+    font-size:30px;
+    border: 10px solid mediumpurple;
 }  
 .backShadeYellow1{
     background-color: #faca3f; 
