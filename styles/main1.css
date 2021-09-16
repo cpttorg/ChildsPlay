@@ -2745,7 +2745,7 @@ footer {
 ============================================
 */
 
-@media screen and (max-width: 860px){
+@media screen and (max-width: 600px){
 .topnav a:not(:first-child) {display: none;}
 
 @media screen and (max-width: 600px) {
@@ -2757,7 +2757,9 @@ footer {
     display: block;
 }
 /*.topnav.responsive {
-    position: relative;}*/
+    position: relative;
+    background-color: #E0E0E0;
+}*/
 .topnav .responsive a.icon {
     position: absolute;
     right: 0;
