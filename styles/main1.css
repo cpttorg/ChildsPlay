@@ -2491,6 +2491,18 @@ video{
     background-color: #ccffe6; 
     border-radius: 25px; 
 } 
+	
+.backShadeblue1 {
+    background-color: skyblue; 
+    border-radius: 25px;    
+}  
+	
+.backShadeblue1 h1{
+    color: #fff;
+    text-align: center;
+    padding: 1%;
+    font-size: 30px;
+}  
 .backShadeYellow1{
     background-color: #faca3f; 
     border-radius: 25px; 
