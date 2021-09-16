@@ -1694,7 +1694,7 @@ footer nav a:active {
 /*tablet Screen
 ============================================
 */
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1040px){
 .topnav a:not(:first-child) {display: none;}
 
 .topnav {
@@ -1709,7 +1709,7 @@ footer nav a:active {
     color: #000;
     padding: 15px 15px;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 100%;
 }
 .topnav a:hover {
     background-color: #faca3f;
