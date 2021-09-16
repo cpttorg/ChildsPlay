@@ -2311,6 +2311,7 @@ video{
     float: left;
     margin-left: 20px;
     margin-right: 20px;
+    padding-bottom: 5%;
     border: 5px solid #bb0a1e;
     border-radius: 25px;
 }
