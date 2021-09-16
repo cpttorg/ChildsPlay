@@ -2106,7 +2106,15 @@ backShadegreen2{
     padding: 1%;
     font-size: 30px;
 } 
-    
+.backShadeRed2 {
+    background-color: #bb0a1e;
+    border-radius: 25px;  } 
+	
+.backShadeRed2 h1{
+    color: #fff;
+    text-align: center;
+    padding: 1%;
+    font-size: 30px; }      
 
 #founderssec2 a{
     color: darkseagreen;    
