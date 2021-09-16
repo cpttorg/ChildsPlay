@@ -1706,8 +1706,8 @@ footer nav a:active {
 ============================================
 */
 
-/*@media screen and (max-width: 1040px){
-.topnav a:not(:first-child) {display: none;} */
+*@media screen and (max-width: 1040px){
+.topnav a:not(:first-child) {display: none;} 
     
  
 
