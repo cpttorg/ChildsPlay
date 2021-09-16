@@ -2100,7 +2100,7 @@ backShadegreen2{
     font-size: 30px;
 }    
     
-    .backShadegreen2 p{
+ .backShadegreen2 p{
     color: #fff;
     text-align: left;
     padding: 1%;
@@ -2964,26 +2964,21 @@ p {
 
 .backShadeblue1 {
     background-color: skyblue; 
-    border-radius: 25px;    
-}  
-	
+    border-radius: 25px;   }  
 .backShadeblue1 h1{
     color: #fff;
     text-align: center;
     padding: 1%;
-    font-size: 30px;
-}  
+    font-size: 30px;}  
 .backShadeRed2 {
     background-color: #bb0a1e;
-    border-radius: 25px;   
-} 
+    border-radius: 25px;  } 
 	
 .backShadeRed2 h1{
     color: #fff;
     text-align: center;
     padding: 1%;
-    font-size: 30px;
-}  
+    font-size: 30px; }  
 backShadegreen1 h1{
     color: white;
     text-align: center;
@@ -2992,10 +2987,7 @@ backShadegreen1 h1{
 }      
 backShadegreen2{
     background-color: yellowgreen; 
-    border-radius: 25px; 
-    color: black;
-    text-align: center;
-}  
+    border-radius: 25px; }  
 .backShadegreen2 h1{
     color: #fff;
     text-align: center;
