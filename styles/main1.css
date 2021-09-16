@@ -2979,13 +2979,13 @@ p {
     text-align: center;
     padding: 1%;
     font-size: 30px; }  
-backShadegreen1 h1{
+.backShadegreen1 h1{
     color: white;
     text-align: center;
     padding: 3%;
     font-size: 40px;
 }      
-backShadegreen2{
+.backShadegreen2{
     background-color: yellowgreen; 
     border-radius: 25px; }  
 .backShadegreen2 h1{
