@@ -2081,12 +2081,18 @@ p {
     /*padding-right: 40%;*/
     
 }
-backShadegreen1 h1{
-    color: white;
+	
+.backShadegreen1{
+    background-color: #006400; 
+    border-radius: 25px; 
+}
+.backShadegreen1 h1{
+    color: #fff;
     text-align: center;
-    padding: 3%;
-    font-size: 40px;
-}      
+    padding: 1%;
+    font-size: 30px;
+}  
+   
 backShadegreen2{
   background-color: yellowgreen; 
     border-radius: 25px; 
@@ -2519,6 +2525,16 @@ video{
 }  
 	
 .backShadeblue1 h1{
+    color: #fff;
+    text-align: center;
+    padding: 1%;
+    font-size: 30px;
+}  
+.backShadegreen1{
+    background-color: #006400; 
+    border-radius: 25px; 
+}
+.backShadegreen1 h1{
     color: #fff;
     text-align: center;
     padding: 1%;
