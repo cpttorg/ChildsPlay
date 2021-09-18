@@ -2033,7 +2033,7 @@ footer nav a:active {
 #founderssec2a {
       
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: column wrap;
     border-radius: 25px;background-color: white;
    /* border: 15px solid #ff4500;*/
 }  
