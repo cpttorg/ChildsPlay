@@ -1368,6 +1368,11 @@ video{
     font-size: 30px;
     margin: 0;
 } 
+#founderssec2a {
+    display: flex;
+    flex-flow: row wrap;
+    border-radius: 25px;background-color: white;
+}  
 /*FOOTER*/
 
 footer { 
@@ -2026,8 +2031,7 @@ footer nav a:active {
 }
 
 #founderssec2a {
-   
-   
+      
     display: flex;
     flex-flow: row wrap;
     border-radius: 25px;background-color: white;
