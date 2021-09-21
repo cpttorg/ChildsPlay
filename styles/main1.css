@@ -1700,7 +1700,7 @@ footer nav a:active {
 ============================================
 */
 
-@media screen and (min-width: 720px) and (max-width: 1040px) 
+@media screen and (min-width: 720px) and (max-width: 1200px) 
 
 {
 .topnav a:not(:first-child) {display: none;}
