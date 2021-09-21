@@ -1698,9 +1698,9 @@ footer nav a:active {
 }
 /*tablet Screen
 ============================================
-*/
+old - @media screen and (max-width: 1040px)*/
 
-@media screen and (min-width: 720px) and (max-width: 1200px) 
+@media screen and (min-width: 900px)
 
 {
 .topnav a:not(:first-child) {display: none;}
