@@ -1699,10 +1699,8 @@ footer nav a:active {
 /*tablet Screen
 ============================================
 */
- @media screen and (min-width: 750px) and (max-width: 1040px)
+ @media screen and (max-width: 1040px){
 
-
-{
 .topnav a:not(:first-child) {display: none;}
 
 .topnav {
