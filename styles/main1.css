@@ -1,5 +1,5 @@
 /* large*/
-@media only screen and (min-width: 1040px) {
+@media only screen and (min-width: 769px) {
     
 header {
   background-color: #000;
@@ -1699,7 +1699,7 @@ footer nav a:active {
 /*tablet Screen
 ============================================
 */
- @media screen and (max-width: 1040px){
+ @media screen and (min-width: 321px) and (max-width: 768px){
 
 .topnav a:not(:first-child) {display: none;}
 
@@ -2759,7 +2759,7 @@ footer {
 */
 
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 320px){
 .topnav a:not(:first-child) {display: none;}
 
 
