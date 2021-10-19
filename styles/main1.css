@@ -1729,10 +1729,7 @@ footer nav a:active {
 .topnav .icon {
     display: none;
 }
-
-
-
-@media screen and (max-width: 1040px) {
+ @media screen and (min-width: 321px) and (max-width: 768px){
   .column {
     width: 100%;
   }
@@ -2750,7 +2747,6 @@ footer {
   text-decoration: none;
   margin-left: 50px;
 }
-
 }
 	 
 
@@ -2763,7 +2759,7 @@ footer {
 .topnav a:not(:first-child) {display: none;}
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
   .column {
     width: 100%;
   }
