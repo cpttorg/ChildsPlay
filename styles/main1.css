@@ -1,5 +1,5 @@
 /* large*/
-@media only screen and (min-width: 769px) {
+@media only screen and (min-width: 768px) {
     
 header {
   background-color: #000;
@@ -1699,7 +1699,7 @@ footer nav a:active {
 /*tablet Screen
 ============================================
 */
- @media screen and (min-width: 321px) and (max-width: 768px){
+ @media screen and (max-width: 768px){
 
 .topnav a:not(:first-child) {display: none;}
 
@@ -1729,7 +1729,10 @@ footer nav a:active {
 .topnav .icon {
     display: none;
 }
- @media screen and (min-width: 321px) and (max-width: 768px){
+
+
+
+@media screen and (max-width: 768px) {
   .column {
     width: 100%;
   }
@@ -2747,6 +2750,7 @@ footer {
   text-decoration: none;
   margin-left: 50px;
 }
+
 }
 	 
 
