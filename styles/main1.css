@@ -1699,7 +1699,7 @@ footer nav a:active {
 /*tablet Screen
 ============================================
 */
-@media screen and (max-width: 1040px){
+@media screen and (max-width: 64em){
 .topnav a:not(:first-child) {display: none;}
 
 .topnav {
@@ -1731,7 +1731,7 @@ footer nav a:active {
 
 
 
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 64em) {
   .column {
     width: 100%;
   }
@@ -2761,7 +2761,7 @@ footer {
 .topnav a:not(:first-child) {display: none;}
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 37.5em) {
   .column {
     width: 100%;
   }
