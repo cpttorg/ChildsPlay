@@ -2757,7 +2757,7 @@ footer {
 */
 
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 37.5em){
 .topnav a:not(:first-child) {display: none;}
 
 
