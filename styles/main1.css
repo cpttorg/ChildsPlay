@@ -1235,7 +1235,7 @@ video{
 .backShadeMinibar {
     text-decoration: none;
     padding: 15px 15px;
-    background-color: yellow; 
+    background-color: darkgray; 
     display: block;
     float: left;
     font-size: 25px;
