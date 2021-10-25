@@ -9,7 +9,7 @@ h1 {
   color: #000000;
 }
 h2 {
-  color: #000000;
+  color: #000000;M
     text-align: center;
 }
     /*h4 is used om individual production pages*/
@@ -1235,7 +1235,7 @@ video{
 .backShadeMinibar {
     text-decoration: none;
     padding: 15px 15px;
-    background-color: darkgray; 
+    background-color: #E0E0E0; 
     display: block;
     float: left;
     font-size: 25px;
