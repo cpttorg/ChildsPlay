@@ -1235,7 +1235,7 @@ video{
 .backShadeMinibar {
     text-decoration: none;
     padding: 15px 15px;
-    background-color: lightyellow; 
+    background-color: ; 
     display: block;
     float: left;
     font-size: 25px;
@@ -1363,7 +1363,7 @@ video{
     /*border: .75px solid #bb0a1e;*/
 } 
 .backShadeYellow3{
-    background-color: lightyellow; 
+    background-color: #faca3f; 
     color: #000;
     font-size: 30px;
     border-radius: 25px;
