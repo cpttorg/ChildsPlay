@@ -9,7 +9,7 @@ h1 {
   color: #000000;
 }
 h2 {
-  color: #000000;M
+  color: #000000;
     text-align: center;
 }
     /*h4 is used om individual production pages*/
@@ -3554,17 +3554,14 @@ video{
     font-size: 20px;
 }
 .column9a {
- 
-    width:80%;
-
+  width:80%;
   height:975px;
-  
 }
 .column10 {
   width: 100%;
   height: 1000px;
-    border-radius: 25px;
-    border: 10px solid #006400;
+   /* border-radius: 25px;
+    border: 10px solid #006400; */
     font-size: 20px;
 }
 /* Clear floats after the columns */
