@@ -3663,7 +3663,8 @@ video{
     color: #000;
     font-size: 30px;
     margin: 0;
-} 
+}
+.backShadeNocolor{ background-color: #fff;}
 .desc {
   padding: 15px;
   text-align: center;
